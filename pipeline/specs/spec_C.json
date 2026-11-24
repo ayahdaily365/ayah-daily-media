@@ -1,0 +1,37 @@
+{
+ "audio": "assets/C_23-115.mp3",
+ "out": "out/ayah-daily_23-115_al-muminun_qatami.mp4",
+ "surah_en": "Al-Mu'minun",
+ "surah_ar": "المؤمنون",
+ "ref": "23:115",
+ "reciter_en": "Nasser Al-Qatami",
+ "hook": "Why were you created?",
+ "segments": [
+  {
+   "start": 0,
+   "end": 11.0,
+   "ar": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا",
+   "en": "Then did you think that We created you without purpose"
+  },
+  {
+   "start": 11.0,
+   "end": 20.1,
+   "ar": "وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+   "en": "and that to Us you would not be returned?"
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/b1/img03.jpg",
+   "start": 0,
+   "end": 11.3,
+   "move": "in"
+  },
+  {
+   "path": "assets/b1/img02.jpg",
+   "start": 11.3,
+   "end": 24,
+   "move": "in"
+  }
+ ]
+}

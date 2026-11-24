@@ -1,0 +1,62 @@
+{
+ "audio": "assets/039053.mp3",
+ "out": "out/ayah-daily_39-53_sample.mp4",
+ "surah_en": "Az-Zumar",
+ "surah_ar": "الزمر",
+ "ref": "39:53",
+ "reciter_en": "Yasser Al-Dosari",
+ "reciter_ar": "ياسر الدوسري",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.7,
+   "ar": "قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ",
+   "en": "Say, \"O My servants who have transgressed against themselves,"
+  },
+  {
+   "start": 8.7,
+   "end": 13.7,
+   "ar": "لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ",
+   "en": "do not despair of the mercy of Allah."
+  },
+  {
+   "start": 13.7,
+   "end": 19.1,
+   "ar": "إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ",
+   "en": "Indeed, Allah forgives all sins."
+  },
+  {
+   "start": 19.1,
+   "end": 29.2,
+   "ar": "إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+   "en": "Indeed, it is He who is the Forgiving, the Merciful.\""
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/tile3.jpg",
+   "start": 0,
+   "end": 9.0,
+   "move": "in"
+  },
+  {
+   "path": "assets/39-53_light-breaks.mp4",
+   "start": 9.0,
+   "end": 14.0,
+   "move": "in"
+  },
+  {
+   "path": "assets/tile1.jpg",
+   "start": 14.0,
+   "end": 19.4,
+   "move": "out",
+   "pan": 1
+  },
+  {
+   "path": "assets/39-53_sunrise.mp4",
+   "start": 19.4,
+   "end": 30.3,
+   "move": "in"
+  }
+ ]
+}

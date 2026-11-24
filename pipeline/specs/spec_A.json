@@ -1,0 +1,48 @@
+{
+ "audio": "assets/A_14-42.mp3",
+ "out": "out/ayah-daily_14-42_ibrahim_maher.mp4",
+ "surah_en": "Ibrahim",
+ "surah_ar": "إبراهيم",
+ "ref": "14:42-43",
+ "reciter_en": "Maher Al-Muaiqly",
+ "hook": "Never think Allah is unaware.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 9.5,
+   "ar": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَـٰفِلًا عَمَّا يَعْمَلُ ٱلظَّـٰلِمُونَ",
+   "en": "And never think that Allah is unaware of what the wrongdoers do."
+  },
+  {
+   "start": 9.5,
+   "end": 17.1,
+   "ar": "إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلْأَبْصَـٰرُ",
+   "en": "He only delays them for a Day when eyes will stare in horror."
+  },
+  {
+   "start": 17.1,
+   "end": 27.3,
+   "ar": "مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌ",
+   "en": "Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/A_hook.mp4",
+   "start": 0,
+   "end": 9.8
+  },
+  {
+   "path": "assets/b1/img09.jpg",
+   "start": 9.8,
+   "end": 17.4,
+   "move": "in"
+  },
+  {
+   "path": "assets/b1/img11.jpg",
+   "start": 17.4,
+   "end": 30,
+   "move": "in"
+  }
+ ]
+}

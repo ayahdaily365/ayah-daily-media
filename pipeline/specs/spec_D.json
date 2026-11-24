@@ -1,0 +1,42 @@
+{
+ "audio": "assets/D_50-16.mp3",
+ "out": "out/ayah-daily_50-16_qaf_yasser.mp4",
+ "surah_en": "Qaf",
+ "surah_ar": "ق",
+ "ref": "50:16",
+ "reciter_en": "Yasser Al-Dosari",
+ "hook": "He knows what your heart whispers.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 8.75,
+   "ar": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ",
+   "en": "And We have already created man and know what his soul whispers to him,"
+  },
+  {
+   "start": 8.75,
+   "end": 24.7,
+   "ar": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+   "en": "and We are closer to him than his jugular vein."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/D_hook.mp4",
+   "start": 0,
+   "end": 9.05
+  },
+  {
+   "path": "assets/b1/img00.jpg",
+   "start": 9.05,
+   "end": 16.5,
+   "move": "in"
+  },
+  {
+   "path": "assets/b1/img08.jpg",
+   "start": 16.5,
+   "end": 27,
+   "move": "in"
+  }
+ ]
+}

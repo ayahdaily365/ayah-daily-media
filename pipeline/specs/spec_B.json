@@ -1,0 +1,54 @@
+{
+ "audio": "assets/B_94-5.mp3",
+ "out": "out/ayah-daily_94-5_ash-sharh_alafasy.mp4",
+ "surah_en": "Ash-Sharh",
+ "surah_ar": "الشرح",
+ "ref": "94:5-8",
+ "reciter_en": "Mishary Alafasy",
+ "hook": "Going through something hard? Listen.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 4.47,
+   "ar": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+   "en": "For indeed, with hardship comes ease."
+  },
+  {
+   "start": 4.47,
+   "end": 8.62,
+   "ar": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+   "en": "Indeed, with hardship comes ease."
+  },
+  {
+   "start": 8.62,
+   "end": 12.83,
+   "ar": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+   "en": "So when you have finished your duties, then stand up in worship."
+  },
+  {
+   "start": 12.83,
+   "end": 16.9,
+   "ar": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+   "en": "And to your Lord direct your longing."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/B_hook.mp4",
+   "start": 0,
+   "end": 8.9
+  },
+  {
+   "path": "assets/b1/img06.jpg",
+   "start": 8.9,
+   "end": 13.1,
+   "move": "in"
+  },
+  {
+   "path": "assets/b1/img05.jpg",
+   "start": 13.1,
+   "end": 20,
+   "move": "out"
+  }
+ ]
+}
