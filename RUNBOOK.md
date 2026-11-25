@@ -18,6 +18,14 @@ Mix themes: mercy/hope, patience, gratitude, du'a, nearness to Allah, **and warn
 - Flow **video clips** can't be fetched (googlevideo blocks it). Download them with Flow's ⋮ → Download → 720p. They land in `~/Downloads` with descriptive names (`Storm_wall_rolling_closer_xxxx.mp4`), so move them to `~/Downloads/Ayah Daily/clips/` with `device_bash` and pull them in with `device_stage_files`.
 - **Publishing**: commit finished videos to this repo (`queue/<YYYY-MM-DD>/`). From a studio.youtube.com tab, `fetch('https://raw.githubusercontent.com/ayahdaily365/ayah-daily-media/main/queue/...')` works with CORS. Inject the file into the upload dialog's `input[type=file][name=Filedata]` with `DataTransfer`, then run `pipeline/yt_upload.js` (`ytUpload({url, filename, title, desc, date:'Nov 26, 2026', time:'7:30 AM'})`). Time items in the dropdown use U+202F narrow spaces, which the script normalises.
 
+## Instagram, Facebook and TikTok via Buffer (free plan)
+- Buffer account: ayahdaily365@gmail.com (publish.buffer.com, already signed in to the built-in browser). Free plan = 3 channels, max 10 queued posts per channel. Channels: Instagram professional `ayahdaily365`, TikTok `ayah.daily86`, Facebook Page `Ayah Daily Quran`.
+- Facebook, Meta Business Suite and TikTok web block fetching from GitHub (CSP); **publish.buffer.com allows it**, so schedule IG/FB/TikTok through Buffer.
+- For each of the 3 daily videos: on publish.buffer.com click **New Post** (all 3 channels are preselected). Inject the video from raw.githubusercontent.com into `input[type=file]` with DataTransfer and wait ~12 s.
+- **Type the caption with real keystrokes** (computer `type`, after clicking inside the editor area, not on the "Templates" link). `execCommand('insertText')` does NOT save into Buffer's editor state. Use max **5 hashtags** (Instagram limit).
+- Time: open the "Next Available" dropdown → **Set Date and Time** → click the time field → click the 15-minute slot (7:30 AM / 1:30 PM / 8:30 PM; time zone is Africa/Lagos) → Done → **Customize**.
+- In Customize: TikTok AI-Generated switch ON; expand Instagram (button aria-label starts `Instagram:`), check Reel is selected, AI-Generated ON; expand Facebook, select radio `facebook_reel`, then replace the **Reel Title** (defaults to the file name) with the YouTube title minus "#shorts". Click **Schedule**. Verify on publish.buffer.com/schedule?tab=queue.
+
 ## Flow limits (free plan)
 - 50 credits/day, refreshing about 24 h after the first generation. Veo 3.1 **Lite** = 10 credits → **5 hook clips/day**. Use the Flow **agent panel** (right side) and click its send arrow; long prompts don't send on Enter. Approve the "N credits" prompt.
 - Nano Banana Pro ≈ 20 images/day, then switch to Nano Banana 2.1. Ask for "SEPARATE vertical 9:16 images (not a collage)" and "upright portrait orientation".
@@ -30,7 +38,8 @@ Mix themes: mercy/hope, patience, gratitude, du'a, nearness to Allah, **and warn
 5. `python3 render.py spec.json` (about 25 s per video). Check frames at 1.5 s, mid and end.
 6. Commit the 3 for tomorrow to `queue/<date>/` and the other 2 to `queue/buffer/`, then push. Schedule the 3 in YouTube Studio. Titles: `<Hook-ish title> <emoji> Surah X (S:A) | Reciter #shorts`. Description: 2–3 line caption, reference + reciter, then the standard footer and hashtags (see `posted.md` examples). Not made for kids; paid promotion No; altered content No (stylised animation isn't realistic).
 7. Append each verse to `posted.md` with date, slot and the YouTube link. Delete queue files older than 2 days from the repo (`git rm`).
-8. Report to the user: what's scheduled, the buffer, credits used and any Content ID claims.
+8. Schedule the same 3 videos to Instagram, TikTok and Facebook through Buffer (section above).
+9. Report to the user: what's scheduled, the buffer, credits used and any Content ID claims.
 
 ## Known notes
 - Mishary Alafasy recitations receive Content ID audio claims (no reach impact, no strike; claimant gets monetisation). Track claims per reciter in `posted.md`.
