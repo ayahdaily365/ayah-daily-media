@@ -1,0 +1,48 @@
+{
+ "audio": "assets/n_99-6.mp3",
+ "out": "out/ayah-daily_99-6_az-zalzalah_qatami.mp4",
+ "surah_en": "Az-Zalzalah",
+ "surah_ar": "الزلزلة",
+ "ref": "99:6-8",
+ "reciter_en": "Nasser Al-Qatami",
+ "hook": "Nothing you do is ever lost.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 9.14,
+   "ar": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+   "en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds."
+  },
+  {
+   "start": 9.14,
+   "end": 15.54,
+   "ar": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+   "en": "So whoever does an atom's weight of good will see it,"
+  },
+  {
+   "start": 15.54,
+   "end": 27.2,
+   "ar": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+   "en": "And whoever does an atom's weight of evil will see it."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/n/h5.mp4",
+   "start": 0,
+   "end": 7.9
+  },
+  {
+   "path": "assets/n/IMG00c.jpg",
+   "start": 7.9,
+   "end": 17.6,
+   "move": "in"
+  },
+  {
+   "path": "assets/n/IMG12c.jpg",
+   "start": 17.6,
+   "end": 30,
+   "move": "out"
+  }
+ ]
+}

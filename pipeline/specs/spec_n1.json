@@ -1,0 +1,42 @@
+{
+ "audio": "assets/n_13-28.mp3",
+ "out": "out/ayah-daily_13-28_ar-rad_qatami.mp4",
+ "surah_en": "Ar-Ra'd",
+ "surah_ar": "الرعد",
+ "ref": "13:28",
+ "reciter_en": "Nasser Al-Qatami",
+ "hook": "Looking for peace of heart?",
+ "segments": [
+  {
+   "start": 0,
+   "end": 10.4,
+   "ar": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ",
+   "en": "Those who have believed and whose hearts are assured by the remembrance of Allah."
+  },
+  {
+   "start": 10.4,
+   "end": 25.4,
+   "ar": "أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+   "en": "Unquestionably, by the remembrance of Allah hearts are assured."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/n/h1.mp4",
+   "start": 0,
+   "end": 7.9
+  },
+  {
+   "path": "assets/n/IMG10.jpg",
+   "start": 7.9,
+   "end": 16.5,
+   "move": "in"
+  },
+  {
+   "path": "assets/n/IMG09.jpg",
+   "start": 16.5,
+   "end": 30,
+   "move": "out"
+  }
+ ]
+}
