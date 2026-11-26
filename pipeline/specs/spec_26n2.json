@@ -1,0 +1,37 @@
+{
+ "audio": "assets/a/v2.mp3",
+ "out": "assets/out/v2_al-qasas_28-5_abbad.mp4",
+ "surah_en": "Al-Qasas",
+ "surah_ar": "القصص",
+ "ref": "28:5",
+ "reciter_en": "Fares Abbad",
+ "hook": "To everyone who is being oppressed…",
+ "segments": [
+  {
+   "start": 0,
+   "end": 8.75,
+   "ar": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ",
+   "en": "And We wanted to confer favor upon those who were oppressed in the land"
+  },
+  {
+   "start": 8.75,
+   "end": 14.3,
+   "ar": "وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ",
+   "en": "and make them leaders and make them inheritors."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/i/im9.jpg",
+   "start": 0.0,
+   "end": 7.9,
+   "move": "in"
+  },
+  {
+   "path": "assets/i/im8.jpg",
+   "start": 7.9,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

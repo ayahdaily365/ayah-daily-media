@@ -1,0 +1,43 @@
+{
+ "audio": "assets/a/v1.mp3",
+ "out": "assets/out/v1_ad-duha_93-3_rifai.mp4",
+ "surah_en": "Ad-Duha",
+ "surah_ar": "الضحى",
+ "ref": "93:3-5",
+ "reciter_en": "Hani Ar-Rifai",
+ "hook": "He has not forgotten you.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 4.1,
+   "ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+   "en": "Your Lord has not taken leave of you, nor has He detested [you]."
+  },
+  {
+   "start": 4.1,
+   "end": 9.3,
+   "ar": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+   "en": "And the Hereafter is better for you than the first [life]."
+  },
+  {
+   "start": 9.3,
+   "end": 13.6,
+   "ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+   "en": "And your Lord is going to give you, and you will be satisfied."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/i/im0.jpg",
+   "start": 0.0,
+   "end": 7.55,
+   "move": "in"
+  },
+  {
+   "path": "assets/i/im10.jpg",
+   "start": 7.55,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "audio": "assets/a/v5.mp3",
+ "out": "assets/out/v5_yusuf_12-86_jibreel.mp4",
+ "surah_en": "Yusuf",
+ "surah_ar": "يوسف",
+ "ref": "12:86",
+ "reciter_en": "Muhammad Jibreel",
+ "hook": "Carrying grief no one sees?",
+ "segments": [
+  {
+   "start": 0,
+   "end": 7.5,
+   "ar": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ",
+   "en": "He said, \"I only complain of my suffering and my grief to Allah,"
+  },
+  {
+   "start": 7.5,
+   "end": 19.0,
+   "ar": "وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+   "en": "and I know from Allah that which you do not know.\""
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/i/im2.jpg",
+   "start": 0.0,
+   "end": 10.25,
+   "move": "in"
+  },
+  {
+   "path": "assets/i/im11.jpg",
+   "start": 10.25,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

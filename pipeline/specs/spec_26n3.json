@@ -1,0 +1,43 @@
+{
+ "audio": "assets/a/v3.mp3",
+ "out": "assets/out/v3_al-imran_3-139_minshawi.mp4",
+ "surah_en": "Ali 'Imran",
+ "surah_ar": "آل عمران",
+ "ref": "3:139",
+ "reciter_en": "Muhammad Siddiq Al-Minshawi",
+ "hook": "Tired? Read this.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 8.8,
+   "ar": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟",
+   "en": "So do not weaken and do not grieve,"
+  },
+  {
+   "start": 8.8,
+   "end": 21.5,
+   "ar": "وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+   "en": "and you will be superior if you are [true] believers."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/i/im7.jpg",
+   "start": 0.0,
+   "end": 7.67,
+   "move": "in"
+  },
+  {
+   "path": "assets/i/im6.jpg",
+   "start": 7.67,
+   "end": 15.33,
+   "move": "out"
+  },
+  {
+   "path": "assets/i/im5.jpg",
+   "start": 15.33,
+   "end": 40,
+   "move": "in"
+  }
+ ]
+}

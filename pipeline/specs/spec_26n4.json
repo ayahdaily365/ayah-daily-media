@@ -1,0 +1,37 @@
+{
+ "audio": "assets/a/v4.mp3",
+ "out": "assets/out/v4_ash-shura_42-42_ajamy.mp4",
+ "surah_en": "Ash-Shura",
+ "surah_ar": "الشورى",
+ "ref": "42:42",
+ "reciter_en": "Ahmed Al-Ajamy",
+ "hook": "To every oppressor…",
+ "segments": [
+  {
+   "start": 0,
+   "end": 11.6,
+   "ar": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ",
+   "en": "The cause is only against the ones who wrong the people and tyrannize upon the earth without right."
+  },
+  {
+   "start": 11.6,
+   "end": 17.9,
+   "ar": "أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+   "en": "Those will have a painful punishment."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "assets/i/im4.jpg",
+   "start": 0.0,
+   "end": 9.7,
+   "move": "in"
+  },
+  {
+   "path": "assets/i/im3.jpg",
+   "start": 9.7,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}
