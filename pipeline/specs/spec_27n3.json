@@ -1,0 +1,49 @@
+{
+ "audio": "a/v3.mp3",
+ "out": "out/v3_al-imran_3-173.mp4",
+ "surah_en": "Ali 'Imran",
+ "surah_ar": "آل عمران",
+ "ref": "3:173",
+ "reciter_en": "Hani Ar-Rifai",
+ "hook": "When everyone is against you…",
+ "segments": [
+  {
+   "start": 0,
+   "end": 4.7,
+   "ar": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ",
+   "en": "Those to whom people said,"
+  },
+  {
+   "start": 4.7,
+   "end": 10.05,
+   "ar": "إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ",
+   "en": "\"Indeed, the people have gathered against you, so fear them.\""
+  },
+  {
+   "start": 10.05,
+   "end": 13.05,
+   "ar": "فَزَادَهُمْ إِيمَـٰنًا",
+   "en": "But it [merely] increased them in faith,"
+  },
+  {
+   "start": 13.05,
+   "end": 19.5,
+   "ar": "وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+   "en": "and they said, \"Sufficient for us is Allah, and [He is] the best Disposer of affairs.\""
+  }
+ ],
+ "scenes": [
+  {
+   "path": "i/v3a.jpg",
+   "start": 0.0,
+   "end": 9.75,
+   "move": "in"
+  },
+  {
+   "path": "i/v3b.jpg",
+   "start": 9.75,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

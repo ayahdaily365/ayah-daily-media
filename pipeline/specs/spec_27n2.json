@@ -1,0 +1,37 @@
+{
+ "audio": "a/v2.mp3",
+ "out": "out/v2_hud_11-102.mp4",
+ "surah_en": "Hud",
+ "surah_ar": "هود",
+ "ref": "11:102",
+ "reciter_en": "Yasser Al-Dosari",
+ "hook": "To every oppressor…",
+ "segments": [
+  {
+   "start": 0,
+   "end": 6.95,
+   "ar": "وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَآ أَخَذَ ٱلْقُرَىٰ وَهِىَ ظَـٰلِمَةٌ ۚ",
+   "en": "And thus is the seizure of your Lord when He seizes the cities while they are committing wrong."
+  },
+  {
+   "start": 6.95,
+   "end": 13.6,
+   "ar": "إِنَّ أَخْذَهُۥٓ أَلِيمٌ شَدِيدٌ",
+   "en": "Indeed, His seizure is painful and severe."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "i/v2a.jpg",
+   "start": 0.0,
+   "end": 6.8,
+   "move": "in"
+  },
+  {
+   "path": "i/v2b.jpg",
+   "start": 6.8,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

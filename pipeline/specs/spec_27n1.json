@@ -1,0 +1,49 @@
+{
+ "audio": "a/v1.mp3",
+ "out": "out/v1_taha_20-45.mp4",
+ "surah_en": "Ta-Ha",
+ "surah_ar": "طه",
+ "ref": "20:45-46",
+ "reciter_en": "Maher Al-Muaiqly",
+ "hook": "Afraid? Listen to this.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 6.2,
+   "ar": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ",
+   "en": "They said, \"Our Lord, indeed we are afraid"
+  },
+  {
+   "start": 6.2,
+   "end": 11.5,
+   "ar": "أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ",
+   "en": "that he will hasten [punishment] against us or that he will transgress.\""
+  },
+  {
+   "start": 11.5,
+   "end": 16.0,
+   "ar": "قَالَ لَا تَخَافَآ ۖ",
+   "en": "[Allah] said, \"Fear not."
+  },
+  {
+   "start": 16.0,
+   "end": 21.3,
+   "ar": "إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+   "en": "Indeed, I am with you both; I hear and I see.\""
+  }
+ ],
+ "scenes": [
+  {
+   "path": "i/v1a.jpg",
+   "start": 0.0,
+   "end": 10.65,
+   "move": "in"
+  },
+  {
+   "path": "i/v1b.jpg",
+   "start": 10.65,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

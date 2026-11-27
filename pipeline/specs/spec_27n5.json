@@ -1,0 +1,37 @@
+{
+ "audio": "a/v5.mp3",
+ "out": "out/v5_ghafir_40-51.mp4",
+ "surah_en": "Ghafir",
+ "surah_ar": "غافر",
+ "ref": "40:51",
+ "reciter_en": "Muhammad Jibreel",
+ "hook": "Allah's promise to the believers.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 9.85,
+   "ar": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+   "en": "Indeed, We will support Our messengers and those who believe during the life of this world"
+  },
+  {
+   "start": 9.85,
+   "end": 15.5,
+   "ar": "وَيَوْمَ يَقُومُ ٱلْأَشْهَـٰدُ",
+   "en": "and on the Day when the witnesses will stand."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "i/v5a.jpg",
+   "start": 0.0,
+   "end": 7.75,
+   "move": "in"
+  },
+  {
+   "path": "i/v5b.jpg",
+   "start": 7.75,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}

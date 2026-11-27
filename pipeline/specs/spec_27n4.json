@@ -1,0 +1,37 @@
+{
+ "audio": "a/v4.mp3",
+ "out": "out/v4_at-tawbah_9-51.mp4",
+ "surah_en": "At-Tawbah",
+ "surah_ar": "التوبة",
+ "ref": "9:51",
+ "reciter_en": "Abu Bakr Ash-Shaatree",
+ "hook": "Nothing touches you except this.",
+ "segments": [
+  {
+   "start": 0,
+   "end": 7.9,
+   "ar": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ",
+   "en": "Say, \"Never will we be struck except by what Allah has decreed for us; He is our protector.\""
+  },
+  {
+   "start": 7.9,
+   "end": 13.2,
+   "ar": "وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+   "en": "And upon Allah let the believers rely."
+  }
+ ],
+ "scenes": [
+  {
+   "path": "i/v4a.jpg",
+   "start": 0.0,
+   "end": 6.6,
+   "move": "in"
+  },
+  {
+   "path": "i/v4b.jpg",
+   "start": 6.6,
+   "end": 40,
+   "move": "out"
+  }
+ ]
+}
