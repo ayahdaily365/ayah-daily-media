@@ -18,4 +18,10 @@
 | 42:42 Ash-Shura | Ahmed Al-Ajamy | oppressors' end | 2026-11-26 | 2026-11-29 13:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/bDsk9OddrAE | check |
 | 12:86 Yusuf | Muhammad Jibreel | grief/du'a | 2026-11-26 | 2026-11-29 20:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/zjBxucWcBTc | check |
 
-Next free slot: **2026-11-30 07:30**. Buffer queue: 9 posts per channel (limit 10) as of 26 Nov 22:00 WAT; 3 of them publish on 27 Nov, so next run has room for 4 per channel (5th video → YouTube only + queue/buffer/ unless more have posted).
+| 20:45-46 Ta-Ha | Maher Al-Muaiqly | comfort/fear | 2026-11-27 | 2026-11-30 07:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/8iNUB72TQiw | Other notices (check) |
+| 11:102 Hud | Yasser Al-Dosari | oppressors' end | 2026-11-27 | 2026-11-30 13:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/a_mH6tz9Rc0 | Other notices (check) |
+| 3:173 Ali 'Imran | Hani Ar-Rifai | oppressed/tawakkul | 2026-11-27 | 2026-11-30 20:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/EU7qqzW917Y | Claimed content found at upload (Hani Ar-Rifai) |
+| 9:51 At-Tawbah | Abu Bakr Ash-Shaatree | comfort/qadr | 2026-11-27 | 2026-12-01 07:30 (YT + Buffer IG/TT/FB) | https://youtube.com/shorts/I_N7uLpzAfg | Other notices (check) |
+| 40:51 Ghafir | Muhammad Jibreel | victory for believers | 2026-11-27 | 2026-12-01 13:30 (YT only; Buffer pending: queue/buffer/) | https://youtube.com/shorts/RyNvukFsiYo | Other notices (check) |
+
+Next free slot: **2026-12-01 20:30**. Buffer queue: 10 posts per channel (full) as of 27 Nov 22:55 WAT; 3 publish on 28 Nov, so next run has room for 3 per channel. Add `queue/buffer/2026-12-01_2-afternoon_ghafir_40-51.mp4` to Buffer FIRST (Dec 1 13:30, caption in queue/2026-12-01/captions_and_schedule.md), then 2 new videos.
